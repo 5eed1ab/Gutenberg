@@ -22,8 +22,6 @@ kld_list="i915kms"
 EOF
 
 reboot
-echo "exec /usr/local/bin/i3" >> .xinitrc
-startx
 ```
 ### [punchcutting](https://github.com/punchcutting)
 ```
